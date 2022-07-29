@@ -1,16 +1,16 @@
-# username = input("Please tell me your name")
-# result = f"Hello {username}, nice to e-meet u"
-#
-# print(result)
+username = input("Please tell me your name")
+result = f"Hello {username}, nice to e-meet u"
 
-#
-# text = "boHDan"
-# print(text.capitalize())
+print(result)
 
-# text = "    boHDan    "
-# print(text.strip())
-# text = "boHDan"
-# print(text, len(text))
-#
-# text = "boHDan"
-# print(text.swapcase())
+
+text = "boHDan"
+print(text.capitalize())
+
+text = "    boHDan    "
+print(text.strip())
+text = "boHDan"
+print(text, len(text))
+
+text = "boHDan"
+print(text.swapcase())
