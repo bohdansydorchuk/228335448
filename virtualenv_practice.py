@@ -12,7 +12,7 @@
 
  activate.bat
 
- pip install django numpy pandas requests SQLAlchemy flask
+ pip install django numpy pandas requests
 
  pip freeze
 
